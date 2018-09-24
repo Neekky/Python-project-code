@@ -1,1 +1,2 @@
-﻿This is a big project！！！！！！
+做一些关于python的小项目开发练习
+锻炼一下编程思维
